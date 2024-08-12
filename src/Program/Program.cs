@@ -5,10 +5,3 @@ Console.WriteLine(Multiplication.Multiply(3, 3));
 Console.WriteLine(Division.Divide(18, 2));
 Console.WriteLine("hola");
 
-public class Substraction
-{
-    public static int Substract(int a, int b)
-    {
-        return a - b;
-    }
-}
